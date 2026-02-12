@@ -1,8 +1,6 @@
-<h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: NALINIPRIYA G </h3>
-<h3>Register Number/Staff Id: TSIT031</h3>
-
-
+ExpNo 1 :Developing AI Agent with PEAS Description</h1>
+<h3>Name: HARISH A M</h3>
+<h3>Register Number: 212224060094</h3>
 <h3>AIM:</h3>
 <br>
 <p>To find the PEAS description for the given AI problem and develop an AI agent.</p>
@@ -40,3 +38,7 @@
 <p>Treat unhealthy patients in each room. And check for the unhealthy patients in random room</p>
 <h3>STEP 5:</h3>
 <p>Measure the performance parameters: For each treatment performance incremented, for each movement performance decremented</p>
+<h3>Output</h3>
+<img width="817" height="285" alt="Screenshot 2025-10-04 162316" src="https://github.com/user-attachments/assets/e932465a-d1d8-4f57-a6fa-ebd690892312" />
+<h3>Result</h3>
+Thus,the PEAS description for the given AI problem and develop an AI agent is developed successfully.
